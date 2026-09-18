@@ -1,0 +1,7 @@
+# dsha-grok-provider bundle self-mount patch
+- insert:
+    - id: dsha-grok-provider
+      name: dsha-grok-provider
+      inject:
+        - llm
+        - webServer
