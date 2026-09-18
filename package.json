@@ -1,6 +1,6 @@
 {
   "name": "dsha-grok-provider",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "DSHA / DeepSeek Harness 插件：用 X Premium / SuperGrok 订阅作为 Grok 大模型供应商（OAuth，无需 API Key）。面向 DSHA 安卓端链接安装。",
   "type": "module",
   "main": "lib/index.js",
@@ -36,8 +36,8 @@
     "dsh",
     "deepseek-harness",
     "grok",
-    "oauth",
     "subscription",
+    "oauth",
     "xai"
   ],
   "license": "MIT",
